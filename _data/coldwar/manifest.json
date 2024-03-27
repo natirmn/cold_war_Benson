@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://natirmn.github.io/cold_war_Benson/coldwar/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "coldwar" ] },
+    "items": [
+      {
+        "id": "https://natirmn.github.io/cold_war_Benson/coldwar/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1775.0,
+        "items": [
+          {
+            "id": "https://natirmn.github.io/cold_war_Benson/coldwar/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://natirmn.github.io/cold_war_Benson/coldwar/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia800208.us.archive.org/29/items/txu-oclc-768426768-1973-10/txu-oclc-768426768-1973-10.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 1775.0
+                },
+                "target": "https://natirmn.github.io/cold_war_Benson/coldwar/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
