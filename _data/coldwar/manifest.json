@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://natirmn.github.io/cold_war_Benson/coldwar/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "coldwar" ] },
+    "label": { "en": [ "Right Wing Terrorism in Central America" ] },
     "items": [
       {
         "id": "https://natirmn.github.io/cold_war_Benson/coldwar/canvas-1/canvas",
