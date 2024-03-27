@@ -8,6 +8,24 @@
         "id": "https://natirmn.github.io/cold_war_Benson/coldwar/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1775.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://natirmn.github.io/cold_war_Benson/annotations/coldwar-canvas-1-commentary.json",
+            "label": {
+              "none": ["Commentary"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://natirmn.github.io/cold_war_Benson/annotations/coldwar-canvas-1-transcription.json",
+            "label": {
+              "none": ["Transcription"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://natirmn.github.io/cold_war_Benson/coldwar/canvas-1/paintings",
